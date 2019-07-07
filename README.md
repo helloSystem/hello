@@ -1,4 +1,4 @@
-# probonOS
+# hello
 
 Desktop operating system with focus on simplicity and usability (think Macintosh System 1).
 
