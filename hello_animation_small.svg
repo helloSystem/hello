@@ -74,7 +74,7 @@
   <defs
      id="svg_document_defs" />
   <g
-     transform="matrix(0.39391311,0,0,0.39391311,23.776315,81.902326)"
+     transform="matrix(0.27797246,0,0,0.27797246,50.636886,92.126607)"
      id="g93"
      style="opacity:1;stop-opacity:1">
     <path
@@ -128,11 +128,11 @@
     </circle>
   </g>
   <rect
-     ry="29.703083"
-     y="4.8274078"
-     x="4.8801942"
-     height="223.62466"
-     width="220.31203"
+     ry="20.96056"
+     y="37.73719"
+     x="37.302471"
+     height="157.8051"
+     width="155.46747"
      id="rect95"
-     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.98749;stroke-miterlimit:4;stroke-dasharray:17.9624, 17.9624;stroke-dashoffset:0;stroke-opacity:0.5;stop-opacity:1" />
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.22519;stroke-miterlimit:4;stroke-dasharray:12.6755, 12.6755;stroke-dashoffset:0;stroke-opacity:0.5;stop-opacity:1" />
 </svg>
