@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0alpha2 (f2f97a7, 2019-07-12)"
+   sodipodi:docname="hello_animation.svg"
+   id="svg_document"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 320 180"
+   height="180"
+   width="320"
+   version="1.1">
+  <title
+     id="title55">hello</title>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>hello</dc:title>
+        <cc:license
+           rdf:resource="" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source></dc:source>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     showguides="false"
+     inkscape:current-layer="svg_document"
+     inkscape:window-maximized="0"
+     inkscape:window-y="212"
+     inkscape:window-x="600"
+     inkscape:cy="143.42678"
+     inkscape:cx="113.05271"
+     inkscape:zoom="2.4663885"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="984"
+     inkscape:window-width="1401"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <desc
+     id="desc1">This example demonstrates the use of a path element, an animate element, and the stroke-dasharray attribute to simulate drawing.</desc>
+  <defs
+     id="svg_document_defs" />
+  <path
+     sodipodi:nodetypes="cscsssssssccccc"
+     stroke="black"
+     stroke-linejoin="round"
+     id="path1"
+     stroke-width="15.75px"
+     d="M 26.816767,36.748271 C 43.203424,67.240957 66.474145,0.31812069 55.270041,32.476855 32.265545,98.505836 29.893572,143.91569 29.893572,143.91569 c 0,0 4.58505,-70.596115 33.845596,-70.596115 29.260591,0 -7.777127,69.109905 17.759383,71.339255 C 107.03503,146.88818 149.25942,78.527398 122.65893,77.041175 96.058441,75.554951 85.096643,140.94325 120.74129,143.1726 156.38598,145.40195 207.35821,31.603066 175.96961,28.630598 144.581,25.65813 143.41473,139.457 175.33529,142.42948 c 31.92063,2.97247 85.36058,-115.66477 52.90796,-117.894121 -32.45261,-2.229351 -35.74697,113.798871 -2.23032,114.541991 21.28041,-1.48624 17.21663,-66.50088 44.88117,-65.014637 39.70208,3.309454 20.43206,76.844967 -7.41485,67.623637 -21.30785,-7.62146 -19.59447,-69.101693 7.53806,-67.61545 19.64913,2.562291 33.14886,28.34421 39.03973,9.71025"
+     fill="none"
+     stroke-linecap="round"
+     inkscape:connector-curvature="0"
+     style="opacity:1;stroke-width:9.98729;stroke-miterlimit:4;stroke-dasharray:none;stop-opacity:1">
+    <animate
+       dur="5"
+       values="0,1739;1739,0;"
+       begin="0; animate1.end+5s"
+       id="animateSig1"
+       repeatCount="0"
+       fill="freeze"
+       attributeName="stroke-dasharray"
+       attributeType="XML" />
+  </path>
+  <rect
+     ry="45.135296"
+     y="-3.2782359"
+     x="-22.543915"
+     height="190.48686"
+     width="338.64334"
+     id="rect95"
+     style="fill:none;fill-rule:evenodd;stroke-width:0.239428;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>
