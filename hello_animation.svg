@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0alpha2 (f2f97a7, 2019-07-12)"
+   sodipodi:docname="hello_animation.svg"
+   id="svg_document"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 450 160"
+   height="160"
+   width="450"
+   version="1.1">
+  <title
+     id="title55">hello</title>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>hello</dc:title>
+        <cc:license
+           rdf:resource="MIT" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>MIT License</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>https://github.com/dsward2/macSVG</dc:source>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>https://github.com/dsward2</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg_document"
+     inkscape:window-maximized="0"
+     inkscape:window-y="170"
+     inkscape:window-x="913"
+     inkscape:cy="158.25688"
+     inkscape:cx="350"
+     inkscape:zoom="1.744"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="480"
+     inkscape:window-width="644"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <desc
+     id="desc1">This example demonstrates the use of a path element, an animate element, and the stroke-dasharray attribute to simulate drawing.</desc>
+  <defs
+     id="svg_document_defs" />
+  <path
+     stroke="black"
+     stroke-linejoin="round"
+     id="path1"
+     stroke-width="15.75px"
+     d="m 9.875,124.67735 c 31.5,0 142.8,-114.1 95.20001,-114.7999973 C 57.474998,9.1773477 62.375,150.57734 62.375,150.57734 c 0,0 2.099998,-66.500002 40.60001,-66.500002 38.49999,0 -6.30002,65.100012 27.29999,67.200022 33.60001,2.09999 81.90001,-63.700022 46.90001,-65.100012 -35,-1.39999 -34.3,61.600012 12.59999,63.700002 46.90001,2.1 100.79999,-132.300002 59.5,-135.100002 -41.3,-2.8 -33.59999,131.600002 8.4,134.400002 42,2.8 102.89999,-133.000002 60.20001,-135.100002 -42.70001,-2.1 -37.80002,134.400002 6.29999,135.100002 28,-1.39999 18.89999,-65.800002 55.30002,-64.399992 20.29998,1.39999 28.69998,16.799982 28,16.099992 -0.70002,-0.7 6.29998,47.6 -30.80002,47.6 -37.10001,0 -32.9,-65.100002 2.80002,-63.699992 32.19998,2.79998 28,30.799982 28.69998,23.099992 0,0.69999 23.1,-7 26.6,-22.400002"
+     fill="none"
+     stroke-linecap="round"
+     inkscape:connector-curvature="0"
+     style="opacity:1;stop-opacity:1">
+    <animate
+       dur="5"
+       values="0,1739;1739,0;"
+       begin="0; animate1.end+5s"
+       id="animateSig1"
+       repeatCount="0"
+       fill="freeze"
+       attributeName="stroke-dasharray"
+       attributeType="XML" />
+  </path>
+  <circle
+     stroke="black"
+     id="circle1"
+     stroke-width="3px"
+     cy="143.17735"
+     fill="black"
+     r="10.5"
+     cx="437.375"
+     style="opacity:1;stop-opacity:1">
+    <set
+       dur="5.25s"
+       begin="animateSig1.begin"
+       id="set1"
+       repeatCount="0"
+       attributeName="r"
+       to="0"
+       attributeType="XML" />
+    <animate
+       additive="replace"
+       dur="0.25s"
+       begin="animateSig1.end+0.25s"
+       id="animate1"
+       values="0;10.5;"
+       accumulate="none"
+       repeatCount="0"
+       fill="freeze"
+       attributeName="r"
+       attributeType="XML" />
+  </circle>
+</svg>
