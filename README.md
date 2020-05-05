@@ -8,4 +8,6 @@ Without the complexities of Linux distributions.
 
 https://github.com/probonopd/hello/wiki
 
+https://github.com/probonopd/hello/wiki/Brainstorming
+
 I have the ideas, do you have the time and motivation to implement it? Be sure to contact me.
