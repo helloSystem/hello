@@ -12,4 +12,6 @@ https://github.com/probonopd/hello/wiki/Brainstorming
 
 https://github.com/probonopd/hello/wiki/Welcome-and-unwelcome-technologies
 
-I have the ideas, do you have the time and motivation to implement it? Be sure to contact me.
+__This project will live from YOUR involvement.__
+
+I have ideas, do you have the time and motivation to implement them? Be sure to contact me.
