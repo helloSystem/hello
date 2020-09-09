@@ -6,6 +6,8 @@ Desktop operating system with focus on simplicity, minimalistic elegance, and us
 
 Without the complexities of Linux distributions.
 
+__NOT__ just a "theme". Definitely __not__ a "clone" of anything. But something that long-time Mac users would instantly feel at home on.
+
 https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
 
 https://github.com/probonopd/hello/wiki
