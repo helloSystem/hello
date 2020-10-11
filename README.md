@@ -2,7 +2,9 @@
 
 ![](https://raw.githubusercontent.com/probonopd/hello/master/branding/remix.gif)
 
-Desktop operating system with focus on simplicity, minimalistic elegance, and usability (think Macintosh System 1). With the latest technologies underneath.
+System for Pro creators with focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
+
+With the latest technologies underneath.
 
 Without the complexities of Linux distributions.
 
