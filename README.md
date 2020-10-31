@@ -14,9 +14,11 @@ https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-comput
 
 https://github.com/probonopd/hello/wiki
 
-https://github.com/probonopd/hello/wiki/Brainstorming
+[High-level architecture](../../wiki/Architecture)
 
-https://github.com/probonopd/hello/wiki/Welcome-and-unwelcome-technologies
+[Brainstorming](../../wiki/Brainstorming)
+
+[Welcome and unwelcome technologies](../../wiki/Welcome-and-unwelcome-technologies)
 
 https://www.reddit.com/r/linux/comments/enp56v/make_it_simple_linux_desktop_usability_part_1/ (UX discussion)
 
