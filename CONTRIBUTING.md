@@ -21,3 +21,25 @@ This is a small, purely volunteer-driven project, so your contributions are _hig
 * Please avoid complex code structures that require deep C++ knowledge (e.g., avoid subclassing, pointer arithmetic,... where possible)
 * We appreciate code with comments that explain why we are doing something
 * Our policy is to merge PRs liberally but roll back changes that cause breakage quickly. `master` must always build and not crash
+
+## Areas we especially need help with
+
+### FreeBSD related topics
+
+Skills/resources we don't currently have and would highly appreciate help with
+
+|Skillset needed|Topic|Status|Rationale|Contact|
+|---|---|---|---|---|
+|FreeBSD kernel|Overhaul/bugfixing for unionfs.ko to create a read-write root filesystem|Idea|Save time and RAM by not having to copy the whole root filesystem to RAM|probonopd|
+|OpenZFS|A way to combine read-only (Live ISO) with read-write (ramdisk) to create a read-write root filesystem|Idea|Save time and RAM by not having to copy the whole root filesystem to RAM|probonopd|
+|FreeBSD kernel, graphics|Zero-text bootsplash that shows a boot animation and hides all text unless verbosity is explicitly requested|Idea|Put together "appliance" style systems that are not frightening non-technical users|probonopd|
+|FreeBSD build system|Kernel-related packages built for each FreeBSD version ([details](https://github.com/furybsd/furybsd-livecd/issues/241))|idea|Xorg fails on 12.2-RELEASE|probonopd|
+|Qt, OpenZFS|ZFS snapshot, clone integration into the file manager|Idea|Expose the power of ZFS to non-technical users|probonopd|
+
+### Qt related topics
+
+|Skillset needed|Topic|Status|Rationale|Contact|
+|---|---|---|---|---|
+|Qt|Improve the Filer (file manager)||Please see https://github.com/helloSystem/Filer/issues|probonopd|
+|Qt|Improve the Menu (global menu bar)||Please see https://github.com/helloSystem/Menu/issues|probonopd|
+|Qt/Qml|Improve the Dock||Please see https://github.com/helloSystem/Dock/issues|probonopd|
