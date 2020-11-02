@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/probonopd/hello/master/branding/remix.gif)
 
-System for Pro creators with focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
+Desktop system for creators with focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 
 With the latest technologies underneath.
 
