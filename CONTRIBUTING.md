@@ -42,4 +42,3 @@ Skills/resources we don't currently have and would highly appreciate help with
 |---|---|---|---|---|
 |Qt|Improve the Filer (file manager)||Please see https://github.com/helloSystem/Filer/issues|probonopd|
 |Qt|Improve the Menu (global menu bar)||Please see https://github.com/helloSystem/Menu/issues|probonopd|
-|Qt/Qml|Improve the Dock||Please see https://github.com/helloSystem/Dock/issues|probonopd|
