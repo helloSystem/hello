@@ -34,6 +34,7 @@ Skills/resources we don't currently have and would highly appreciate help with
 |OpenZFS|A way to combine read-only (Live ISO) with read-write (ramdisk) to create a read-write root filesystem|Idea|Save time and RAM by not having to copy the whole root filesystem to RAM|probonopd|
 |FreeBSD kernel, graphics|Zero-text bootsplash that shows a boot animation and hides all text unless verbosity is explicitly requested|Idea|Put together "appliance" style systems that are not frightening non-technical users|probonopd|
 |FreeBSD build system|Kernel-related packages built for each FreeBSD version ([details](https://github.com/furybsd/furybsd-livecd/issues/241))|idea|Xorg fails on 12.2-RELEASE|probonopd|
+|FreeBSD Linuxulator|Make it possible for Linux applications to use FreeBSD D-Bus|Idea|Have Linux applications to use the [global menu](https://github.com/helloSystem/Menu) that is running on FreeBSD|probonopd|
 |Qt, OpenZFS|ZFS snapshot, clone integration into the file manager|Idea|Expose the power of ZFS to non-technical users|probonopd|
 
 ### Qt related topics
