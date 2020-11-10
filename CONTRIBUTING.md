@@ -35,6 +35,7 @@ Skills/resources we don't currently have and would highly appreciate help with
 |FreeBSD kernel, graphics|Zero-text bootsplash that shows a boot animation and hides all text unless verbosity is explicitly requested|Idea|Put together "appliance" style systems that are not frightening non-technical users|probonopd|
 |FreeBSD build system|Kernel-related packages built for each FreeBSD version ([details](https://github.com/furybsd/furybsd-livecd/issues/241))|idea|Xorg fails on 12.2-RELEASE|probonopd|
 |FreeBSD Linuxulator|Make it possible for Linux applications to use FreeBSD D-Bus|Idea|Have Linux applications to use the [global menu](https://github.com/helloSystem/Menu) that is running on FreeBSD|probonopd|
+|FreeBSD kernel, Golang|Enable Go-based FUSE filesystems for FreeBSD ([issue](https://github.com/jacobsa/fuse/issues/91))|Idea|Packages that are images rather than archives: Experiment with [distr1](http://distr1.org/) concepts on FreeBSD|probonopd|
 |Qt, OpenZFS|ZFS snapshot, clone integration into the file manager|Idea|Expose the power of ZFS to non-technical users|probonopd|
 
 ### Qt related topics
