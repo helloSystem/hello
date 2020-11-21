@@ -8,6 +8,8 @@ With the latest technologies underneath.
 
 Without the complexities of Linux distributions.
 
+Without lockdown. With the user in full control. 
+
 __NOT__ just a "theme". Definitely __not__ a "clone" of anything. But something that long-time Mac users would instantly feel at home on.
 
 https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
@@ -28,4 +30,4 @@ I have ideas, do you have the time and motivation to implement them? Be sure to 
 
 ## Experimental Live ISO
 
-https://github.com/helloSystem/ISO/
+https://github.com/helloSystem/ISO/ (untested experimental pre-alpha continuous builds)
