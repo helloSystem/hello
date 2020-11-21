@@ -1,6 +1,6 @@
 # hello
 
-![](https://raw.githubusercontent.com/probonopd/hello/master/branding/remix.gif)
+![](https://github.com/helloSystem/hello/blob/master/branding/computer-hello.png?raw=true)
 
 Desktop system for creators with focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 
