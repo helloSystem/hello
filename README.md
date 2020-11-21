@@ -28,6 +28,10 @@ __This project will live from YOUR involvement.__
 
 I have ideas, do you have the time and motivation to implement them? Be sure to contact me.
 
+Here is what we need help with: [Issues flagged with help-wanted](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), and of course other contributions are also welcome.
+
+Maybe you'd like to look into one of these: [Issues flagged with good-first-issue](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=).
+
 ## Experimental Live ISO
 
 https://github.com/helloSystem/ISO/ (untested experimental pre-alpha continuous builds)
