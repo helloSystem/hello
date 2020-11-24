@@ -12,6 +12,7 @@ This is a small, purely volunteer-driven project, so your contributions are _hig
 * Look through the GitHub Issues sections of the projects within https://github.com/helloSystem/
 * A great way to get started is to comment on some GitHub issues. Also feel free to open new ones. We use GitHub Issues as a means of discussion and keeping track of everything, so don't hesitate to use them. General topics not related to any particular component go to https://github.com/helloSystem/hello/issues
 * Especially have a look at issues marked with ![](https://user-images.githubusercontent.com/2480569/97901371-64b8ad80-1d3c-11eb-8282-0bfdcd3fe512.png). Here your contributions would be especially helpful, but of course your contibutions to other tickets are more than welcome, too
+* There is a liberal amount of `FIXME` and `TODO` in the source code. Reducing the number of those is always highly welcome
 
 ## Our project values
 
