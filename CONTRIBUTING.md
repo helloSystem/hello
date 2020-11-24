@@ -24,6 +24,10 @@ This is a small, purely volunteer-driven project, so your contributions are _hig
 
 ## Areas we especially need help with
 
+Here is what we need help with: [Issues flagged with help-wanted](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), and of course other contributions are also welcome.
+
+Maybe you'd like to look into one of these: [Issues flagged with good-first-issue](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=).
+
 ### FreeBSD related topics
 
 Skills/resources we don't currently have and would highly appreciate help with
