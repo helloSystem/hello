@@ -4,6 +4,8 @@
 
 Desktop system for creators with focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 
+A system for "mere mortals", welcoming to switchers from the Mac.
+
 With the latest technologies underneath.
 
 Without the complexities of Linux distributions.
