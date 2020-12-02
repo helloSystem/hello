@@ -10,7 +10,9 @@ With the latest technologies underneath.
 
 Without the complexities of Linux distributions.
 
-Without lockdown. With the user in full control. 
+Without lockdown. With the user in full control.
+
+Without Big Brother. https://sneak.berlin/20201112/your-computer-isnt-yours/
 
 __NOT__ just a "theme". Definitely __not__ a "clone" of anything. But something that long-time Mac users would instantly feel at home on.
 
