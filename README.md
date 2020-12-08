@@ -38,4 +38,4 @@ Maybe you'd like to look into one of these: [Issues flagged with good-first-issu
 
 ## Experimental Live ISO
 
-https://github.com/helloSystem/ISO/ (untested experimental pre-alpha continuous builds)
+https://github.com/helloSystem/ISO/ (experimental builds)
