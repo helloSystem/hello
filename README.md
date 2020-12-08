@@ -16,11 +16,15 @@ Without Big Brother. https://sneak.berlin/20201112/your-computer-isnt-yours/
 
 __NOT__ just a "theme". Definitely __not__ a "clone" of anything. But something that long-time Mac users would instantly feel at home on.
 
+## Why the need?
+
 @antranigv on "macOS to FreeBSD migration a.k.a why I left macOS" https://antranigv.am/weblog_en/posts/macos_to_freebsd/
 
 https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
 
 https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
+
+## Thoughts on what and how to implement
 
 https://github.com/probonopd/hello/wiki
 
@@ -31,6 +35,8 @@ https://github.com/probonopd/hello/wiki
 [Welcome and unwelcome technologies](../../wiki/Welcome-and-unwelcome-technologies)
 
 https://www.reddit.com/r/linux/comments/enp56v/make_it_simple_linux_desktop_usability_part_1/ (UX discussion)
+
+## Contributing
 
 __This project will live from YOUR involvement.__
 
