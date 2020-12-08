@@ -16,6 +16,10 @@ Without Big Brother. https://sneak.berlin/20201112/your-computer-isnt-yours/
 
 __NOT__ just a "theme". Definitely __not__ a "clone" of anything. But something that long-time Mac users would instantly feel at home on.
 
+@antranigv on "macOS to FreeBSD migration a.k.a why I left macOS" https://antranigv.am/weblog_en/posts/macos_to_freebsd/
+
+https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
+
 https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
 
 https://github.com/probonopd/hello/wiki
