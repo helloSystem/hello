@@ -24,6 +24,11 @@ https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
 
 https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
 
+Hardware lockdown, non-repairability
+* https://www.macrumors.com/2018/10/04/t2-macs-must-pass-diagnostics-for-certain-repairs/
+* https://www.vice.com/en/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair
+* https://uk.pcmag.com/old-news/117795/apples-t2-chip-makes-third-party-mac-repairs-impossible
+
 ## Thoughts on what and how to implement
 
 https://github.com/probonopd/hello/wiki
