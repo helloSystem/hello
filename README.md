@@ -18,6 +18,8 @@ __NOT__ just a "theme". Definitely __not__ a "clone" of anything. But something 
 
 ## Why the need?
 
+https://sneak.berlin/20201112/your-computer-isnt-yours/
+
 @antranigv on "macOS to FreeBSD migration a.k.a why I left macOS" https://antranigv.am/weblog_en/posts/macos_to_freebsd/
 
 https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
