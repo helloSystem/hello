@@ -2,36 +2,51 @@
 
 ![](https://github.com/helloSystem/hello/blob/master/branding/computer-hello.png?raw=true)
 
-Desktop system for creators with focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
+– ***helloSystem***. 
 
-A system for "mere mortals", welcoming to switchers from the Mac.
+A desktop system for creators that focuses on simplicity, elegance, and usability. 
 
-With the latest technologies underneath.
+[Based on FreeBSD](https://en.wikipedia.org/wiki/MacOS#/media/File:Unix_timeline.en.svg). Less, but better!
 
-Without the complexities of Linux distributions.
+For mere mortals. Welcoming to switchers from macOS.
 
-Without lockdown. With the user in full control.
+Not just a theme. Not a clone of anything, but something with which the long-time Mac user should feel instantly comfortable.
 
-Without Big Brother. https://sneak.berlin/20201112/your-computer-isnt-yours/
+The latest technologies, without the complexities of Linux distributions.
 
-__NOT__ just a "theme". Definitely __not__ a "clone" of anything. But something that long-time Mac users would instantly feel at home on.
+Without lockdown. Without Big Brother. The user in full control.
 
-## Why the need?
+### Experimental live images
+
+https://github.com/helloSystem/ISO/ – `.iso` files can be written to USB drives. 
+
+Boot your computer from one of these drives, or boot a virtual machine (e.g. VirtualBox) from an `.iso` – take an early look at helloSystem without installing to your computer. 
+
+## Why?
 
 https://sneak.berlin/20201112/your-computer-isnt-yours/
 
-@antranigv on "macOS to FreeBSD migration a.k.a why I left macOS" https://antranigv.am/weblog_en/posts/macos_to_freebsd/
+@antranigv on *macOS to FreeBSD migration a.k.a why I left macOS* https://antranigv.am/weblog_en/posts/macos_to_freebsd/
 
 https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
 
 https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
 
-Hardware lockdown, non-repairability
+Irrepairable, locked-down hardware: 
+
 * https://www.macrumors.com/2018/10/04/t2-macs-must-pass-diagnostics-for-certain-repairs/
 * https://www.vice.com/en/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair
 * https://uk.pcmag.com/old-news/117795/apples-t2-chip-makes-third-party-mac-repairs-impossible
 
-## Thoughts on what and how to implement
+## Contributing
+
+__This project will live from *your* involvement.__
+
+I have ideas, do you have the time and motivation to implement them? Be sure to contact me.
+
+We need help with [issues flagged with help-wanted](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) – maybe you'd like to look into [issues flagged with good-first-issue](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=). Other contributions are, of course, welcome.
+
+### Thoughts on what and how to implement
 
 https://github.com/probonopd/hello/wiki
 
@@ -41,18 +56,4 @@ https://github.com/probonopd/hello/wiki
 
 [Welcome and unwelcome technologies](../../wiki/Welcome-and-unwelcome-technologies)
 
-https://www.reddit.com/r/linux/comments/enp56v/make_it_simple_linux_desktop_usability_part_1/ (UX discussion)
-
-## Contributing
-
-__This project will live from YOUR involvement.__
-
-I have ideas, do you have the time and motivation to implement them? Be sure to contact me.
-
-Here is what we need help with: [Issues flagged with help-wanted](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), and of course other contributions are also welcome.
-
-Maybe you'd like to look into one of these: [Issues flagged with good-first-issue](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=).
-
-## Experimental Live ISO
-
-https://github.com/helloSystem/ISO/ (experimental builds)
+[Make. It. Simple. Linux Desktop Usability – parts 1–6](https://www.reddit.com/r/linux/comments/enp56v/make_it_simple_linux_desktop_usability_part_1/) – user experience (UX) discussion on Reddit (January 2020, archived)
