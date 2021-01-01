@@ -56,4 +56,4 @@ https://github.com/probonopd/hello/wiki
 
 [Welcome and unwelcome technologies](../../wiki/Welcome-and-unwelcome-technologies)
 
-[Make. It. Simple. Linux Desktop Usability — Part 1 : linux](https://www.reddit.com/r/linux/comments/enp56v/make_it_simple_linux_desktop_usability_part_1/) – user experience (UX) discussion on Reddit (January 2020, archived)
+[Make. It. Simple. Linux Desktop Usability – parts 1–6](https://www.reddit.com/r/linux/comments/enp56v/make_it_simple_linux_desktop_usability_part_1/) – user experience (UX) discussion on Reddit (January 2020, archived)
