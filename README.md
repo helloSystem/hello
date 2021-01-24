@@ -38,6 +38,12 @@ Irrepairable, locked-down hardware:
 * https://www.vice.com/en/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair
 * https://uk.pcmag.com/old-news/117795/apples-t2-chip-makes-third-party-mac-repairs-impossible
 
+## How?
+
+Just follow Bruce Tognazzini's [First Principles of Interaction Design](https://asktog.com/atc/principles-of-interaction-design/)
+
+https://asktog.com/atc/principles-of-interaction-design/
+
 ## Contributing
 
 __This project will live from *your* involvement.__
