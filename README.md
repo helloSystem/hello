@@ -4,6 +4,10 @@
 
 ### Please see https://hellosystem.github.io/docs/ for documentation.
 
+## Screenshot
+
+![Screenshot](https://github.com/helloSystem/hello/blob/master/screenshots/20201229-desktop.png?raw=true)
+
 ## What?
 
 This repository is where developers and interested advanced users brainstorm on __helloSystem__. 
