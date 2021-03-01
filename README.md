@@ -26,17 +26,26 @@ Boot your computer from one of these drives, or boot a virtual machine (e.g. Vir
 
 ## Why?
 
-* https://sneak.berlin/20201112/your-computer-isnt-yours/
-* https://sneak.berlin/20201204/on-trusting-macintosh-hardware/
 * @antranigv on *macOS to FreeBSD migration a.k.a why I left macOS* https://antranigv.am/weblog_en/posts/macos_to_freebsd/
 * https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
 * https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
 
-Irrepairable, locked-down hardware: 
+Lock-down:
+
+* https://sneak.berlin/20201112/your-computer-isnt-yours/
+* https://sneak.berlin/20201204/on-trusting-macintosh-hardware/
+
+Irrepairable, non-upgradeable hardware: 
 
 * https://www.macrumors.com/2018/10/04/t2-macs-must-pass-diagnostics-for-certain-repairs/
 * https://www.vice.com/en/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair
 * https://uk.pcmag.com/old-news/117795/apples-t2-chip-makes-third-party-mac-repairs-impossible
+
+Less and less Mac-like desktop user experience:
+
+* [Riccardo Mori: The reshaped Mac experience](http://morrick.me/archives/9150)
+* [Riccardo Mori: A retrospective look at Mac OS X Snow Leopard](http://morrick.me/archives/9220)
+* [Riccardo Mori: A retrospective look at Mac OS X Snow Leopard - Addendum](http://morrick.me/archives/9246)
 
 ## How?
 
