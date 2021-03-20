@@ -57,7 +57,7 @@ https://asktog.com/atc/principles-of-interaction-design/
 
 __This project lives from *your* involvement.__
 
-I have ideas, do you have the time and motivation to implement them? Be sure to contact me.
+Please see https://hellosystem.github.io/docs/developer/contributing
 
 We need help with [issues flagged with help-wanted](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) – maybe you'd like to look into [issues flagged with good-first-issue](https://github.com/search?q=org%3AhelloSystem+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=). Other contributions are, of course, welcome.
 
