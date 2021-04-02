@@ -29,6 +29,7 @@ Boot your computer from one of these drives, or boot a virtual machine (e.g. Vir
 * @antranigv on *macOS to FreeBSD migration a.k.a why I left macOS* https://antranigv.am/weblog_en/posts/macos_to_freebsd/
 * https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
 * https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
+* https://memoryprotection.show/blog/episode-24 ("It has become very user-hostile.")
 
 Lock-down:
 
