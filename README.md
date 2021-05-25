@@ -31,6 +31,7 @@ Boot your computer from one of these drives, or boot a virtual machine (e.g. Vir
 * https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
 * https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
 * https://memoryprotection.show/blog/episode-24 ("It has become very user-hostile.")
+* https://bombich.com/blog/2021/05/19/beyond-bootable-backups-adapting-recovery-strategies-evolving-platform (If the soldered-in SSD fails, you cannot boot from external bootable media, because "security")
 
 Lock-down:
 
