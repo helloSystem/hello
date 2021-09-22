@@ -27,6 +27,7 @@ Boot your computer from one of these drives, or boot a virtual machine (e.g. Vir
 ## Why?
 
 * Because we want to run apps from "unidentified developers" that need no blessing by the operating system vendor and no workarounds like https://lapcatsoftware.com/articles/textedit-gatekeeper.html
+* [Gatekeeper](https://en.wikipedia.org/wiki/Gatekeeper_(macOS)) ("It forced Mac developers, who had previously been legally free, to sign a strict contract." [Source](https://twitter.com/lapcatsoftware/status/1440735016611246086))
 * @antranigv on *macOS to FreeBSD migration a.k.a why I left macOS* https://antranigv.am/weblog_en/posts/macos_to_freebsd/
 * https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
 * https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
