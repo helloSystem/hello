@@ -32,6 +32,7 @@ Boot your computer from one of these drives, or boot a virtual machine (e.g. Vir
 * https://hardware.substack.com/p/falling-out-of-love-with-apple-part1
 * https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1 (Medium article written by me)
 * https://memoryprotection.show/blog/episode-24 ("It has become very user-hostile.")
+* What used to be simple is becoming increasingly difficult. Example: Install a kernel extension https://twitter.com/CastIrony/status/1444077820041318400 - probably the process doesn't even work on "managed" devices where some central IT department thinks it knows best which kexts the users "need". Lock in and lock down
 * https://bombich.com/blog/2021/05/19/beyond-bootable-backups-adapting-recovery-strategies-evolving-platform (If the soldered-in SSD fails, you cannot boot from external bootable media, because "security")
 * Because we want all software to be "sideloaded" rather than coming from monopolistic stores https://www.lunduke.com/2021/07/google-goes-to-war-against-sideloading/
 * Because we disagree with phone-home, tracking, activation. Apparently it is not necesseary to [activate](https://twitter.com/EggFreckles/status/1439621327472762888) Macs. Has the NSA ordered this "feature" to that they can track people even better?
