@@ -36,9 +36,9 @@ Boot your computer from one of these drives, or boot a virtual machine (e.g. Vir
 * https://bombich.com/blog/2021/05/19/beyond-bootable-backups-adapting-recovery-strategies-evolving-platform (If the soldered-in SSD fails, you cannot boot from external bootable media, because "security")
 * Because we want all software to be "sideloaded" rather than coming from monopolistic stores https://www.lunduke.com/2021/07/google-goes-to-war-against-sideloading/
 * Because we disagree with phone-home, tracking, activation. Apparently it is not necesseary to [activate](https://twitter.com/EggFreckles/status/1439621327472762888) Macs. Has the NSA ordered this "feature" to that they can track people even better?
+* Because used Apple devices have to be thrown away if they are "FMIP locked" (which regularly happens with previously company-owned devices) https://twitter.com/TWArecycles/status/1444549353335509003
 * Because Apple user interfaces are becoming less and less Mac-like (as measured by the original Human Interface Guidelines). Example: [The Tragedy of Safari 15 for Mac’s ‘Tabs’](https://twitter.com/daringfireball/status/1444092268344840197)
 * Because Apple is watering the desktop down with inferior mobile UX and hybrid apps ("Catalyst") that don't behave like real mouse-centric ("AppKit") desktop apps
-
 ![Source: https://twitter.com/stroughtonsmith/status/1439658437361680386](https://pbs.twimg.com/media/E_qxt5-WYAEAIQK?format=jpg&name=small)
 
 
