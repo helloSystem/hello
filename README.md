@@ -2,15 +2,15 @@
 
 ![](https://github.com/helloSystem/hello/blob/master/branding/computer-hello.png?raw=true)
 
-### Please see https://hellosystem.github.io/docs/ for documentation.
+### Please see https://hellosystem.github.io/ for documentation.
+
+This repository is where developers and interested advanced users brainstorm on __helloSystem__. If you are looking for documentation, Live ISO downloads, and other _practical_ information, look at https://hellosystem.github.io/.
 
 ## Screenshot
 
 ![Screenshot](https://github.com/helloSystem/hello/blob/master/screenshots/20201229-desktop.png?raw=true)
 
 ## What?
-
-This repository is where developers and interested advanced users brainstorm on __helloSystem__. 
 
 A desktop system for creators that focuses on simplicity, elegance, and usability.
 
@@ -21,12 +21,6 @@ Following the published [Human Interface Guidelines](https://dl.acm.org/doi/book
 For mere mortals. Welcoming to switchers from macOS.  Not just a theme. Not a clone of anything, but something with which the long-time Mac user should feel instantly comfortable. The latest technologies, without the complexities of Linux distributions. Without lockdown. Without Big Brother. The user in full control.
 
 Less, but better!
-
-### Download 
-
-Live images at https://github.com/helloSystem/ISO/ – `.iso` files can be written to USB drives. 
-
-Boot your computer from one of these drives, or boot a virtual machine (e.g. VirtualBox) from an `.iso` – take an early look at helloSystem without installing to your computer. 
 
 ## Why?
 
