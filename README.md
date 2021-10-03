@@ -12,7 +12,9 @@
 
 This repository is where developers and interested advanced users brainstorm on __helloSystem__. 
 
-A desktop system for creators that focuses on simplicity, elegance, and usability. 
+A desktop system for creators that focuses on simplicity, elegance, and usability.
+
+Based on the published [Human Interface Guidelines](https://dl.acm.org/doi/book/10.5555/573097), re-interpreted for today.
 
 [Based on FreeBSD](https://en.wikipedia.org/wiki/MacOS#/media/File:Unix_timeline.en.svg). Less, but better!
 
