@@ -14,11 +14,13 @@ This repository is where developers and interested advanced users brainstorm on 
 
 A desktop system for creators that focuses on simplicity, elegance, and usability.
 
-Based on the published [Human Interface Guidelines](https://dl.acm.org/doi/book/10.5555/573097), re-interpreted for today.
+Following the published [Human Interface Guidelines](https://dl.acm.org/doi/book/10.5555/573097), and [First Principles of Interaction Design](https://asktog.com/atc/principles-of-interaction-design/) liberally re-interpreted for today.
 
-[Based on FreeBSD](https://en.wikipedia.org/wiki/MacOS#/media/File:Unix_timeline.en.svg). Less, but better!
+[Based on FreeBSD](https://en.wikipedia.org/wiki/MacOS#/media/File:Unix_timeline.en.svg).
 
 For mere mortals. Welcoming to switchers from macOS.  Not just a theme. Not a clone of anything, but something with which the long-time Mac user should feel instantly comfortable. The latest technologies, without the complexities of Linux distributions. Without lockdown. Without Big Brother. The user in full control.
+
+Less, but better!
 
 ### Download 
 
