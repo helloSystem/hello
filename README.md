@@ -28,6 +28,7 @@ Because we used to like the Mac, since 1984. But it's increasingly getting... di
 
 * Because according to Edward Snowden, [Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i) (all the while talking about "privacy", "security", "trusted")
 * Because we want "Personal Digital Sovereignty", in other words: be in full control over what our devices are doing
+* Because Apple has become ["anti-hacking"](https://twitter.com/jeremy_soller/status/1448318637488566273)
 * Because we want to run apps from "unidentified developers" that need no blessing by the operating system vendor and no workarounds like https://lapcatsoftware.com/articles/textedit-gatekeeper.html
 * [Gatekeeper](https://en.wikipedia.org/wiki/Gatekeeper_(macOS)) ("It forced Mac developers, who had previously been legally free, to sign a strict contract." [Source](https://twitter.com/lapcatsoftware/status/1440735016611246086))
 * @antranigv on *macOS to FreeBSD migration a.k.a why I left macOS* https://antranigv.am/weblog_en/posts/macos_to_freebsd/
