@@ -8,7 +8,7 @@ This repository is where developers and interested advanced users brainstorm on 
 
 ## Screenshot
 
-![Screenshot](https://github.com/helloSystem/hello/blob/master/screenshots/20201229-desktop.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/helloSystem/hello/master/screenshots/20211002-desktop-0.6.png)
 
 ## What?
 
