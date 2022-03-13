@@ -29,6 +29,7 @@ Because we used to like the Mac, since 1984. But it's increasingly getting... di
 * Because according to Edward Snowden, [Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i) (all the while talking about "privacy", "security", "trusted")
 * Because Apple has become Big Brother with considering [Client-Side Scanning](https://arxiv.org/abs/2110.07450), distrusting its users and treating them like potential criminals, searching through users' data
 * Because Apple thinks that ["Sideloading is a cyber criminal’s best friend"]( https://twitter.com/verge/status/1455983636830990337) - and wants to be the gatekeeper for everything that runs on _your_ device
+* Because App Stores allow governments to prevent certain applications from being used https://www.washingtonpost.com/world/2022/03/12/russia-putin-google-apple-navalny/
 * Because we want "Personal Digital Sovereignty", in other words: be in full control over what our devices are doing
 * Because Apple has become ["anti-hacking"](https://twitter.com/jeremy_soller/status/1448318637488566273)
 * Because we want to run apps from "unidentified developers" that need no blessing by the operating system vendor and no workarounds like https://lapcatsoftware.com/articles/textedit-gatekeeper.html
