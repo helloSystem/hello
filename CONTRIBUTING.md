@@ -36,7 +36,7 @@ Skills/resources we don't currently have and would highly appreciate help with
 |Skillset needed|Topic|Status|Rationale|Contact|
 |---|---|---|---|---|
 |FreeBSD kernel|Overhaul/bugfixing for unionfs.ko to remove crashes in FreeBSD 13 when attempting to create a read-write root filesystem|Idea|Improve robustness of the Live system infrastructure|probonopd|
-|OpenZFS|A way to combine read-only (Live ISO) with read-write (ramdisk) to create a read-write root filesystem|Idea|Use ZFS for the Live systemw ithout the need for unionfs|probonopd|
+|OpenZFS|A way to combine read-only (Live ISO) with read-write (ramdisk) to create a read-write root filesystem|Idea|Use ZFS for the Live system without the need for unionfs|probonopd|
 |FreeBSD kernel, graphics|Zero-text bootsplash that shows a boot animation and hides all text unless verbosity is explicitly requested|Idea|Put together "appliance" style systems that are not frightening non-technical users|probonopd|
 |FreeBSD build system|Kernel-related packages built for each FreeBSD version ([details](https://github.com/furybsd/furybsd-livecd/issues/241))|idea|Xorg fails on 12.2-RELEASE|probonopd|
 |FreeBSD Linuxulator|Make it possible for Linux applications to use FreeBSD D-Bus|Idea|Have Linux applications to use the [global menu](https://github.com/helloSystem/Menu) that is running on FreeBSD|probonopd|
