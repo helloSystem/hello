@@ -45,6 +45,7 @@ Because we used to like the Mac, since 1984. But it's increasingly getting... di
 * Because used Apple devices have to be thrown away if they are "FMIP locked" (which regularly happens with previously company-owned devices) https://twitter.com/TWArecycles/status/1444549353335509003
 * Because all the locks and shackles Apple is putting on their devices is filling nothing but the landfills and their pockets https://twitter.com/RDKLInc/status/1477410245131616256
 * Because Apple user interfaces are becoming less and less Mac-like (as measured by the original Human Interface Guidelines). Example: [The Tragedy of Safari 15 for Mac’s ‘Tabs’](https://twitter.com/daringfireball/status/1444092268344840197)
+* Because Mac OS X has been deteriorating ever since the "Back to the Mac" event in 2010 https://512pixels.net/2014/04/aqua-past-future/, becoming less like the Mac and more like iOS
 * Because Apple is watering the desktop down with inferior mobile UX and hybrid apps ("Catalyst") that don't behave like real mouse-centric ("AppKit") desktop apps
 
 ![Source: https://twitter.com/stroughtonsmith/status/1439658437361680386](https://pbs.twimg.com/media/E_qxt5-WYAEAIQK?format=jpg&name=small)
