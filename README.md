@@ -42,6 +42,7 @@ Because we used to like the Mac, since 1984. But it's increasingly getting... di
 * https://bombich.com/blog/2021/05/19/beyond-bootable-backups-adapting-recovery-strategies-evolving-platform (If the soldered-in SSD fails, you cannot boot from external bootable media, because "security")
 * Because we want all software to be "sideloaded" rather than coming from monopolistic stores https://www.lunduke.com/2021/07/google-goes-to-war-against-sideloading/
 * Because we disagree with phone-home, tracking, activation. Apparently it is not necesseary to [activate](https://twitter.com/EggFreckles/status/1439621327472762888) Macs. Has the NSA ordered this "feature" so that they can track people even better?
+* Because Apply is spying on you. Yes. Despite all the talk about "privacy" there is the [DSID](https://proton.me/blog/apple-ad-company)
 * Because used Apple devices have to be thrown away if they are "FMIP locked" (which regularly happens with previously company-owned devices) https://twitter.com/TWArecycles/status/1444549353335509003
 * Because all the locks and shackles Apple is putting on their devices is filling nothing but the landfills and their pockets https://twitter.com/RDKLInc/status/1477410245131616256
 * Because Apple user interfaces are becoming less and less Mac-like (as measured by the original Human Interface Guidelines). Example: [The Tragedy of Safari 15 for Mac’s ‘Tabs’](https://twitter.com/daringfireball/status/1444092268344840197)
