@@ -49,6 +49,7 @@ Because we used to like the Mac, since 1984. But it's increasingly getting... di
 * Because Mac OS X has been deteriorating ever since the "Back to the Mac" event in 2010 https://512pixels.net/2014/04/aqua-past-future/, becoming less like the Mac and more like iOS
 * Because the user experience has been getting worse and worse, and here is why https://www.fastcompany.com/3053406/how-apple-is-giving-design-a-bad-name
 * Because Apple is watering the desktop down with inferior mobile UX and hybrid apps ("Catalyst") that don't behave like real mouse-centric ("AppKit") desktop apps
+* [Louis Rossmann: A reminder of how computing used to be](https://www.youtube.com/watch?v=JdHjflBiSMI)
 
 ![Source: https://twitter.com/stroughtonsmith/status/1439658437361680386](https://pbs.twimg.com/media/E_qxt5-WYAEAIQK?format=jpg&name=small)
 
