@@ -51,9 +51,6 @@ Because we used to like the Mac, since 1984. But it's increasingly getting... di
 * Because Apple is watering the desktop down with inferior mobile UX and hybrid apps ("Catalyst") that don't behave like real mouse-centric ("AppKit") desktop apps
 * [Louis Rossmann: A reminder of how computing used to be](https://www.youtube.com/watch?v=JdHjflBiSMI)
 
-![Source: https://twitter.com/stroughtonsmith/status/1439658437361680386](https://pbs.twimg.com/media/E_qxt5-WYAEAIQK?format=jpg&name=small)
-
-
 Lock-down:
 
 * https://sneak.berlin/20201112/your-computer-isnt-yours/
