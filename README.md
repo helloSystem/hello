@@ -24,6 +24,21 @@ Less, but better!
 
 ## Why?
 
+Because we used to like the Mac, since 1984.
+
+* Consistent user interface across all applications (e.g., all applications have the same global menu bar, and all applications have File -> Quit in them with the same Command-Q shortcut)
+* Consistent user interface over time (e.g., the above has not changed since 1984)
+* WYSIWYG: Black text on white background, like on paper. Not amber on black or green on black like  most computers before it
+* No need to use the command line
+* No confusing text messages when the system is starting
+* Everything done via the global menu bar
+* Menu shortcuts on the Command key (the key left to the spacebar)
+* Easy to use disk images
+* Spatial file manager (e.g. every document or folder has one, and exactly one place on the screen; each window and each object inside a window keeps its location on screen)
+* Applications can be "managed" by drag and drop in the file manager
+* Every application is one file (or one "bundle", which is one object in the file manager)
+* No complicated text commands to learn, no need to use a Terminal application
+
 Because we used to like the Mac, since 1984. But it's increasingly getting... difficult:
 
 * Because according to Edward Snowden, [Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i) (all the while talking about "privacy", "security", "trusted")
