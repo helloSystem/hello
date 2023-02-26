@@ -6,10 +6,6 @@
 
 This repository is where developers and interested advanced users brainstorm on __helloSystem__. If you are looking for documentation, Live ISO downloads, and other _practical_ information, look at https://hellosystem.github.io/.
 
-## Screenshot
-
-![Screenshot](https://github.com/helloSystem/hello/blob/master/screenshots/20211219-desktop-0.7.png)
-
 ## What?
 
 A desktop system for creators that focuses on simplicity, elegance, and usability.
