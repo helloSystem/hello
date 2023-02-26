@@ -1,4 +1,4 @@
-# hello
+# hello  [![](https://img.shields.io/badge/dynamic/json?color=orange&label=DistroWatch&query=popularity&url=https%3A%2F%2Fdiwa.demo-web-fahmi.my.id%2Fapi%2Fv2%2Fdistributions%2FhelloSystem)](https://distrowatch.com/hellosystem)
 
 ![](https://github.com/helloSystem/hello/blob/master/branding/computer-hello.png?raw=true)
 
