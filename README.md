@@ -73,6 +73,7 @@ Irrepairable, non-upgradeable hardware:
 * https://www.macrumors.com/2018/10/04/t2-macs-must-pass-diagnostics-for-certain-repairs/
 * https://www.vice.com/en/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair
 * https://uk.pcmag.com/old-news/117795/apples-t2-chip-makes-third-party-mac-repairs-impossible
+* https://www.youtube.com/watch?v=RIFQC8iA65k Apple proprietary GSX Software needed to "pair" repair parts to the device, making straightforward repairs unnecessarily complicated to impossible
 
 Less and less Mac-like desktop user experience:
 
