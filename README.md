@@ -80,6 +80,8 @@ Less and less Mac-like desktop user experience:
 * [Riccardo Mori: The reshaped Mac experience](http://morrick.me/archives/9150)
 * [Riccardo Mori: A retrospective look at Mac OS X Snow Leopard](http://morrick.me/archives/9220)
 * [Riccardo Mori: A retrospective look at Mac OS X Snow Leopard - Addendum](http://morrick.me/archives/9246)
+* [Carl Svensson: The Decline of Usability](https://datagubbe.se/decusab/)
+
 
 ## How?
 
