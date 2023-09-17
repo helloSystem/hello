@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: helloSystem ISO issues
+    url: https://github.com/helloSystem/ISO/issues/new/choose
+    about: Please report any issues regarding the helloSystem ISO here.
+  - name: helloSystem Community Support
+    url: https://github.com/orgs/helloSystem/discussions
+    about: Please ask and answer questions here.
